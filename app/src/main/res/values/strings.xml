@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HitBTC</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="last">Ostatnia cena handlowa</string>
+    <string name="ask">Najlepsza cena sprzedaży</string>
+    <string name="bid">Najlepsza cena ofertowa</string>
+    <string name="last_24_hours">Ostatnie 24 godziny</string>
+    <string name="open">Ostatnia cena handlowa</string>
+    <string name="low">Najniższa cena handlowa</string>
+    <string name="high">Najwyższa cena handlowa</string>
+    <string name="volume">Łączna kwota transakcji w walucie bazowej</string>
+    <string name="volume_quote">Łączna kwota transakcji w walucie kwotowej</string>
+    <string name="pair">Pary</string>
+    <string name="quantity_increment">Zmiana</string>
+    <string name="tick_size">Wielkość</string>
+    <string name="list_of_currency_pairs">Lista par walut</string>
+    <string name="error_message">Błąd pobierania danych:</string>
+    <string name="no_internet_connection">brak połączenia internetowego!</string>
+    <string name="data_update_error">Błąd aktualizacji danych:</string>
+    <string name="service_error">Service error: No symbol id!</string>
+
+</resources>
